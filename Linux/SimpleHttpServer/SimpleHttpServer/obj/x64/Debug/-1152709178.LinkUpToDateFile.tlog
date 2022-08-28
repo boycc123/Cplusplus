@@ -1,0 +1,1 @@
+g++ -o "/home/boy/projects/SimpleHttpServer/bin/x64/Debug/SimpleHttpServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/boy/projects/SimpleHttpServer/obj/x64/Debug/main.o /home/boy/projects/SimpleHttpServer/obj/x64/Debug/Server.o

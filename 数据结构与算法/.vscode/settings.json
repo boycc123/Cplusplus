@@ -30,6 +30,15 @@
   ],
   "files.associations": {
     "ostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "streambuf": "cpp",
+    "tuple": "cpp"
   }
 }
